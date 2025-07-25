@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydub
+SpeechRecognition
+python-multipart
+python-dotenv
+ffmpeg-python
+langchain
+langchain-groq
+openai
+requests
