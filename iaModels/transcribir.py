@@ -92,7 +92,7 @@ def analizar_transcripcion_ingles() -> str:
     )
 
     llm = ChatGroq(
-        model_name="llama3-70b-8192",
+        model_name="llama-3.3-70b-versatile",
         api_key=api_key,
         temperature=0.5,
         max_tokens=3000
